@@ -46,13 +46,11 @@ flowchart LR
 Python 3.11 이상과 최신 Chromium 계열 브라우저를 준비합니다. 아래 명령은 macOS 또는 Linux 터미널 기준입니다.
 
 ```bash
-git clone <repository-url> nuvistage
+git clone https://github.com/leesangmin0802/Nuvistage-Beta nuvistage
 cd nuvistage
 python3 -m venv .venv
 .venv/bin/python -m pip install -r requirements.txt
 ```
-
-`<repository-url>`은 이 저장소의 Git 주소로 바꾸세요.
 
 ### 2. 서버 시작
 
