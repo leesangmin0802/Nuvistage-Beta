@@ -1,0 +1,3 @@
+# Complete server / Player setup. No runtime credentials are included.
+-r requirements-device.txt
+-r requirements-fonts.txt

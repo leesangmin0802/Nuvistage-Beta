@@ -1,0 +1,22 @@
+@font-face{font-family:"Pi Nanum Gothic";src:url('/fonts/nanum-gothic.ttf') format('truetype');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:"Pi Nanum Myeongjo";src:url('/fonts/nanum-myeongjo.ttf') format('truetype');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:"Pi Gowun Dodum";src:url('/fonts/gowun-dodum.ttf') format('truetype');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:"Pi Black Han Sans";src:url('/fonts/black-han-sans.ttf') format('truetype');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:"Pi Nanum Gothic";src:url('/fonts/nanum-gothic-bold.ttf') format('truetype');font-weight:700;font-style:normal;font-display:swap}
+@font-face{font-family:"Pi Nanum Myeongjo";src:url('/fonts/nanum-myeongjo-bold.ttf') format('truetype');font-weight:700;font-style:normal;font-display:swap}
+:root,.stage,.scene-element{font-synthesis:weight}
+
+@font-face{font-family:"Pretendard";src:url("/fonts/pretendard.woff2") format("woff2");font-weight:100 900;font-display:swap}
+@font-face{font-family:"Pi jua";src:url("/fonts/jua.ttf") format("truetype");font-weight:400;font-display:swap}
+@font-face{font-family:"Pi do-hyeon";src:url("/fonts/do-hyeon.ttf") format("truetype");font-weight:400;font-display:swap}
+@font-face{font-family:"Pi gaegu";src:url("/fonts/gaegu.ttf") format("truetype");font-weight:400;font-display:swap}
+@font-face{font-family:"Pi gugi";src:url("/fonts/gugi.ttf") format("truetype");font-weight:400;font-display:swap}
+@font-face{font-family:"Pi gamja-flower";src:url("/fonts/gamja-flower.ttf") format("truetype");font-weight:400;font-display:swap}
+@font-face{font-family:"Pi black-white-picture";src:url("/fonts/black-white-picture.ttf") format("truetype");font-weight:400;font-display:swap}
+@font-face{font-family:"Pi sunflower";src:url("/fonts/sunflower.ttf") format("truetype");font-weight:400;font-display:swap}
+@font-face{font-family:"Pi hi-melody";src:url("/fonts/hi-melody.ttf") format("truetype");font-weight:400;font-display:swap}
+@font-face{font-family:"Pi single-day";src:url("/fonts/single-day.ttf") format("truetype");font-weight:400;font-display:swap}
+@font-face{font-family:"Pi dongle";src:url("/fonts/dongle.ttf") format("truetype");font-weight:400;font-display:swap}
+@font-face{font-family:"Pi gowun-batang";src:url("/fonts/gowun-batang.ttf") format("truetype");font-weight:400;font-display:swap}
+@font-face{font-family:"Pi nanum-pen";src:url("/fonts/nanum-pen.ttf") format("truetype");font-weight:400;font-display:swap}
+:root,.stage{font-family:"Pretendard",sans-serif}

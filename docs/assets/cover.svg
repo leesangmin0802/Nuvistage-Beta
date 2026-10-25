@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Nuvistage</title><desc id="desc">로컬 네트워크를 위한 디지털 사이니지 스튜디오</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10182c"/><stop offset="1" stop-color="#202c50"/></linearGradient><linearGradient id="accent" x2="1" y2="1"><stop stop-color="#8c9bff"/><stop offset="1" stop-color="#5865e9"/></linearGradient></defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/><circle cx="1100" cy="20" r="260" fill="#6a7ae6" opacity=".07"/>
+<rect x="64" y="66" width="72" height="72" rx="20" fill="url(#accent)"/><path d="M84 118V86h9l20 25V86h8v32h-9L92 93v25z" fill="white"/>
+<text x="156" y="116" fill="#fff" font-family="Arial,sans-serif" font-size="49" font-weight="700" letter-spacing="-2">Nuvistage</text>
+<text x="67" y="186" fill="#b5c3e3" font-family="Arial,sans-serif" font-size="18" letter-spacing="4">CREATE. SCHEDULE. DISPLAY.</text>
+<text x="67" y="238" fill="#dce4f7" font-family="sans-serif" font-size="22">하나의 서버에서, 여러 화면을 연결하세요.</text>
+<text x="68" y="289" fill="#8595bb" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">LOCAL NETWORK / RASPBERRY PI / BROWSER PLAYER</text>
+<g transform="translate(795 86)"><rect width="325" height="190" rx="15" fill="#101728" stroke="#52648d"/><rect x="14" y="14" width="205" height="160" rx="8" fill="#eae6dc"/><rect x="230" y="14" width="81" height="75" rx="8" fill="#6776dc"/><rect x="230" y="99" width="81" height="75" rx="8" fill="#334467"/><path d="M166 192v20m-45 1h90" stroke="#7d8daf" stroke-width="7" stroke-linecap="round"/><rect x="33" y="35" width="80" height="6" rx="3" fill="#9d9d93"/><rect x="33" y="61" width="152" height="12" rx="6" fill="#2d3d48"/><rect x="33" y="90" width="108" height="6" rx="3" fill="#93998e"/><rect x="33" y="120" width="68" height="32" rx="6" fill="#b9c5a6"/><rect x="111" y="120" width="88" height="32" rx="6" fill="#d6b894"/></g>
+</svg>

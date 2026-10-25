@@ -1,0 +1,64 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*~
+
+# Python and local dependencies
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+node_modules/
+
+# Runtime databases and local JSON exports (keep only the safe example)
+/*.json
+!/data.example.json
+*.auth.json
+*.devices.json
+*.operations.json
+credentials.json
+*-player.json
+runtime/
+local/
+.device-players/
+
+# Uploaded assets, generated Player caches and browser profiles
+*.media/
+*.fonts/
+cache/
+browser/
+
+# Certificates and private keys: generate separately on each installation
+.tls/
+*.pem
+*.key
+*.crt
+*.cer
+*.csr
+*.srl
+*.p12
+*.pfx
+
+# Environment values, logs, backups and temporary files
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+*.bak
+*.backup
+*.zip
+*.tar
+*.tar.gz
+
+# Local verification captures
+/*-preview.png
+/docs/screenshots/
+
+# Packaged source exports
+/dist/
